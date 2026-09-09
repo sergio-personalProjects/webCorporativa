@@ -1,0 +1,87 @@
+{    
+"_comment_navbar": "--- Navbar ---",
+"navbar0": "Productos",
+"navbar1": "Investigación",
+"navbar2": "Quiénes somos",
+"navbar3": "Noticias",
+"navbar4": "Contáctanos",
+
+"_comment_article1-component": "--- article1 ---",
+"article1-title":"Título descripción objeto de la empresa",
+"article1-description": "Descripción breve del objeto de la empresa.",
+"article1-button": "Investigación",
+
+"_comment_article3-component": "--- article3 ---",
+"article3-title":"Título productos",
+"article3-description": "Texto genérico sobre los productos.",
+"article3-card-title": "Producto 1: Objetivo del producto.",
+"article3-card-description1": "+ Ventaja 1.",
+"article3-card-description2": "+ Ventaja 2.",
+
+
+"_comment_article5-component": "--- article5 ---",
+"article5-title":"Título sección misión empresa",
+"article5-description": "Texto breve sobre la misión de la empresa.",
+"article5-card1-title": "Título 1",
+"article5-card1-description": "Garantice evaluaciones coherentes y de alta calidad en todas las clínicas y laboratorios con copilotos basados en IA.",
+"article5-card2-title": "Título 2",
+"article5-card2-description": "Garantice evaluaciones coherentes y de alta calidad en todas las clínicas y laboratorios con copilotos basados en IA.",
+"article5-card3-title": "Título 3",
+"article5-card3-description": "Garantice evaluaciones coherentes y de alta calidad en todas las clínicas y laboratorios con copilotos basados en IA.",
+
+
+"_comment_article6-component": "--- article6 ---",
+"article6-title":"Título sección publicaciones",
+"article6-description":"Texto breve sobre las publicaciones.",
+"article6-numberPublication1":"XX",
+"article6-publication1":"Publicaciones Med",
+"article6-numberPublication2":"XX",
+"article6-publication2":"Publicaciones Med",
+"article6-button":"Información ->",
+
+
+"_comment_feedback-component": "--- feedback ---",
+"feedback-title":"Título sección feedback",
+"feedback-description":"Texto breve sobre los comentarios.",
+"feedback-comment1":"Recomiendo encarecidamente probar XXXXX. Es una herramienta increiblemente eficaz que mejora tanto el flujo de trabajo como la atención al paciente. Ahorra tiempo: podemos atender a más pacientes sin comprometer la calidad.",
+"feedback-role1":"Directora Médica",
+"feedback-comment2":"Recomiendo encarecidamente probar XXXXX. Es una herramienta increiblemente eficaz que mejora tanto el flujo de trabajo como la atención al paciente. Ahorra tiempo: podemos atender a más pacientes sin comprometer la calidad.",
+"feedback-role2":"Cofundadora / CEO",
+
+
+"_comment_lastNews-component": "--- lastNews ---",
+"lastNews-title":"Título sección últimas noticias",
+"lastNews-description":"Permanezca atento a nuestras actualizaciones, investigaciones y comunicados de prensa.",
+"lastNews-notice1-title":"Título noticia 1",
+"lastNews-notice1-description":"Descripción noticia 1.",
+"lastNews-notice2-title":"Título noticia 2",
+"lastNews-notice2-description":"Descripción noticia 2.",
+"lastNews-notice3-title":"Título noticia 3",
+"lastNews-notice3-description":"Descripción noticia 3.",
+"lastNews-notice4-title":"Título noticia 4",
+"lastNews-notice4-description":"Descripción noticia 4.",
+
+"_comment_notices-component": "--- noticesComponent ---",
+"news-title":"Noticias",
+"news-description":"Permanezca atento a nuestras actualizaciones y comunicados de prensa.",
+"news-all": "Todo",
+"news-blog": "Blog",
+"news-media": "Medios y publicaciones",
+"news-news": "Noticias",
+
+
+"_comment_research-component": "--- article1_research ---",
+"research-title":"Investigación",
+"research-description":"Respaldado por la ciencia",
+"research-all": "Toda la investigación",
+"research-projects": "Proyectos",
+"research-articles": "Artículos",
+"research-communications": "Comunicaciones",
+"research-article1-title": "EJEMPLO ARTÍCULO CIENTÍFICO (2024) | Producto 1",
+"research-article1-link": "Resumen de descripción del artículo sobre la investigación científica para el producto 1.",
+"research-article1-description": "Descripción detallada del artículo sobre la investigación científica.",
+"research-article2-title": "EJEMPLO ARTÍCULO CIENTÍFICO (2024) | Producto 2",
+"research-article2-link": "Resumen de descripción del artículo sobre la investigación científica para el producto 2.",
+"research-article2-description": "Descripción detallada del artículo sobre la investigación científica."
+
+}

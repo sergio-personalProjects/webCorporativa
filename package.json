@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "tw": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "bs": "browser-sync start --server '.' --files '**/*.html, ./dist/output.css, **/*.js' --port 5000 --no-open --extensions html --reload-delay 500",
+    "dev": "concurrently \"npm run tw\" \"npm run bs\""
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "browser-sync": "^3.0.0",
+    "concurrently": "^9.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
